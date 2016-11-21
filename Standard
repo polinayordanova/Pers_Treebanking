@@ -23,13 +23,13 @@
       <address>polina.yordanova@yahoo.com</address>
       <uri>http://data.perseus.org/sosol/users/Polina%20Yordanova</uri>
   </annotator>
-   <sentence id="1" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920">
+   <sentence id="1" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard">
       <word id="1" form="Ἀγαθὰ" lemma="" postag="" relation="" head=""/>
       <word id="2" form="καὶ" lemma="" postag="" relation="" head=""/>
       <word id="3" form="κακά" lemma="" postag="" relation="" head=""/>
       <word id="4" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="2" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="Ὑπὸ" lemma="" postag="" relation="" head=""/>
       <word id="2" form="τῶν" lemma="" postag="" relation="" head=""/>
       <word id="3" form="κακῶν" lemma="" postag="" relation="" head=""/>
@@ -41,14 +41,14 @@
       <word id="9" form="ὅντα" lemma="" postag="" relation="" head=""/>
       <word id="10" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="3" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="εἰς" lemma="" postag="" relation="" head=""/>
       <word id="2" form="οὐρανὸν" lemma="" postag="" relation="" head=""/>
       <word id="3" form="δὲ" lemma="" postag="" relation="" head=""/>
       <word id="4" form="ἀνῆλθεν" lemma="" postag="" relation="" head=""/>
       <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="4" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="Τὰ" lemma="" postag="" relation="" head=""/>
       <word id="2" form="δὲ" lemma="" postag="" relation="" head=""/>
       <word id="3" form="ἀγαθὰ" lemma="" postag="" relation="" head=""/>
@@ -61,7 +61,7 @@
       <word id="10" form="ἀνθρώπων" lemma="" postag="" relation="" head=""/>
       <word id="11" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="5" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="5" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="Ὁ" lemma="" postag="" relation="" head=""/>
       <word id="2" form="δὲ" lemma="" postag="" relation="" head=""/>
       <word id="3" form="εἶπεν" lemma="" postag="" relation="" head=""/>
@@ -79,7 +79,7 @@
       <word id="15" form="ἐπέρχεσθαι" lemma="" postag="" relation="" head=""/>
       <word id="16" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="6" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="6" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="Διὰ" lemma="" postag="" relation="" head=""/>
       <word id="2" form="τοῦτο" lemma="" postag="" relation="" head=""/>
       <word id="3" form="τὰ" lemma="" postag="" relation="" head=""/>
@@ -105,7 +105,7 @@
       <word id="23" form="κατιόντα" lemma="" postag="" relation="" head=""/>
       <word id="24" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="7" document_id="http://www.perseids.org/tools/arethusa/app/#/perseids?doc=41920" subdoc="" span="">
+   <sentence id="7" document_id="https://github.com/polinayordanova/Pers_Treebanking/blob/master/Standard" subdoc="" span="">
       <word id="1" form="Ὅτι" lemma="" postag="" relation="" head=""/>
       <word id="2" form="ἀγαθῶν" lemma="" postag="" relation="" head=""/>
       <word id="3" form="μὲν" lemma="" postag="" relation="" head=""/>
