@@ -23,14 +23,14 @@
       <address>polina.yordanova@yahoo.com</address>
       <uri>http://data.perseus.org/sosol/users/Polina%20Yordanova</uri>
   </annotator>
-   <sentence id="1" document_id="https://raw.github.com/polinayordanova/Pers_Treebanking/blob/master/LatinStandard" subdoc="" span="">
+   <sentence id="1" document_id="https://raw.githubusercontent.com/polinayordanova/Pers_Treebanking/master/LatinStandard" subdoc="" span="">
       <word id="1" form="Natura" lemma="" postag="" relation="" head=""/>
       <word id="2" form="nihil" lemma="" postag="" relation="" head=""/>
       <word id="3" form="facit" lemma="" postag="" relation="" head=""/>
       <word id="4" form="frustra" lemma="" postag="" relation="" head=""/>
       <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="https://raw.github.com/polinayordanova/Pers_Treebanking/blob/master/LatinStandard" subdoc="" span="">
+   <sentence id="2" document_id="https://raw.githubusercontent.com/polinayordanova/Pers_Treebanking/master/LatinStandard" subdoc="" span="">
       <word id="1" form="Errare" lemma="" postag="" relation="" head=""/>
       <word id="2" form="humanum" lemma="" postag="" relation="" head=""/>
       <word id="3" form="est" lemma="" postag="" relation="" head=""/>
