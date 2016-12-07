@@ -23,7 +23,7 @@
       <address>polina.yordanova@yahoo.com</address>
       <uri>http://data.perseus.org/sosol/users/Polina%20Yordanova</uri>
   </annotator>
-   <sentence id="1" document_id="" subdoc="" span="">
+   <sentence id="1" document_id="https://raw.githubusercontent.com/polinayordanova/Pers_Treebanking/master/GreekExample" subdoc="" span="">
       <word id="1" form="ὃν" lemma="" postag="" relation="" head=""/>
       <word id="2" form="γὰρ" lemma="" postag="" relation="" head=""/>
       <word id="3" form="θεοὶ" lemma="" postag="" relation="" head=""/>
